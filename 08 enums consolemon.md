@@ -13,11 +13,12 @@
 
 De body van een `enum` heeft geen functions of variabelen maar waardes:
 
-voeg 4 waardes toe:
+voeg 5 waardes toe:
 - Fire
 - Earth
 - Water
 - Wind
+- Physical
 
 
 ## Gebruiken bij Skill

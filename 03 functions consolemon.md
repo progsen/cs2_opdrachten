@@ -41,7 +41,7 @@ Tip: `this`
 
 ## testen:
 
-plak de code hieronder in je `Program.cs` in je `Program` class.
+plak de code hieronder in `Program.cs` in je `Program` class.
 
 roep `TestConsoleMonFunctions` aan in je `Main` function
 

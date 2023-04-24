@@ -29,7 +29,7 @@ In je function body:
 
 ## testen:
 
-plak de code hieronder in je `Program.cs` in je `Program` class.
+plak de code hieronder in `Program.cs` in je `Program` class.
 
 roep `TestSkillFunctions` aan in je `Main` function
 

@@ -1,17 +1,17 @@
 ## class openen
 
 - open de `ConsoleMonGame` solution
-- open de class file `Skill.cs`
+- open de class file `ConsoleMon.cs`
 
 
 ## function maken
 
-geef deze `Skill` class een nieuwe variabel:
+geef deze `ConsoleMon` class een nieuwe variabel:
 
 `gebruik de namen zoals hieronder!`
 
 - naam wordt: `skills`
-- type `Skill`
+- type `List<Skill>`
 - access is `private`
 
 ## commit
