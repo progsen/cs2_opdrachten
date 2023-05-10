@@ -5,7 +5,7 @@
 
 `LET OP!!` niet de `Program` class hernoemen!
 
-## variablen van Skill
+## variabelen van Skill
 
 geef deze `Skill` class variabelen `op class niveau`:
 
