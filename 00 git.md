@@ -10,7 +10,7 @@ https://github.com/progsen/ignorefiles/blob/main/c%23/.gitignore
 - zet deze in de map waar je repository `2023P4ProgCs2` op je `computer` staat
 - commit de nieuwe file
 
-## stap 1 nieuw project
+## stap 2 nieuw project
 
 
 Maak met visual studio een nieuw project aan:

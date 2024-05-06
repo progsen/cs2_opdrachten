@@ -10,7 +10,7 @@ open deze en werk daarin!
 
 `LET OP!!` niet de `Program` class hernoemen!
 
-## variablen van ConsoleMon
+## variabelen van ConsoleMon
 
 geef deze `ConsoleMon` class variabelen `op class niveau`:
 

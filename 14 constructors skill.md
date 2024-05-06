@@ -34,7 +34,7 @@ We hebben 2 constructors nodig:
 
 ## testen:
 
-plak de code hieronder in `Program.cs` in je `Program` class.
+vervang 'TestConstructors' met de code hieronder in `Program.cs` in je `Program` class.
 
 roep `TestConstructors` aan in je `Main` function
 

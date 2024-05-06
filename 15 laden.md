@@ -10,7 +10,8 @@
 we gaan loadjson aanpassen:
 
 - geef de function een `return`
-- `return` de templates
+- `return` de variable `templates`
+- pas de void van de function aan naar het `type` van de `templates` (wat voor `templates` staat)
 
 
 ## Copy van een template maken
