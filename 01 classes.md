@@ -1,3 +1,8 @@
+## Open je ConsoleMonGame
+
+In `00 git` heb je een ConsoleMonGame solution aangemaakt
+open deze en werk daarin!
+
 ## class aanmaken
 
 - maak een nieuwe class aan en noem deze `ConsoleMon`
