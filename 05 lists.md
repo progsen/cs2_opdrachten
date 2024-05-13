@@ -4,7 +4,7 @@
 - open de class file `ConsoleMon.cs`
 
 
-## function maken
+## nieuwe class variable maken
 
 geef deze `ConsoleMon` class een nieuwe variabel:
 
