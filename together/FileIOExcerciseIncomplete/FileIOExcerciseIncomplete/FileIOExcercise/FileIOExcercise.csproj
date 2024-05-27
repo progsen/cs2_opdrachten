@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="bin\Debug\net5.0\4e280g3e3f-187d-488b-b825-c79514c3fbf0\**" />
+    <Compile Remove="test\0c120g1213-df96-4fb8-a524-037dc0a73f65\**" />
+    <Compile Remove="test\12c85oa7b3-c255-41c3-834a-bbbc2acd790d\**" />
+    <Compile Remove="test\29a7aeefb8-3f2f-4ada-a0fb-6219717d5644\**" />
+    <Compile Remove="test\38fcbd8827-47bb-4ef2-bb10-6c640788652e\**" />
+    <Compile Remove="test\4a6ecc65-1e12-4371-944c-4c94287a0f52\**" />
+    <Compile Remove="test\4e280g3e3f-187d-488b-b825-c79514c3fbf0\**" />
+    <Compile Remove="test\5760ae5eb2-cfec-468c-bf3f-75c998f0b77d\**" />
+    <Compile Remove="test\5b61c87c-7838-4ccc-93a8-5fbe64e2c91c\**" />
+    <Compile Remove="test\6940eda6a0-7a22-4ef8-a6a4-bca775b4b8d3\**" />
+    <Compile Remove="test\76faaa53d9-8ac9-451d-bcb5-b33a1e51dc33\**" />
+    <Compile Remove="test\8c291ad378-1066-4af8-872a-8148f62a0403\**" />
+    <Compile Remove="test\9a6e3681-66eb-4160-b2cc-2b4aa682625b\**" />
+    <Compile Remove="test\9ee83n7af9-a125-46b2-a421-6a061be240f3\**" />
+    <Compile Remove="test\c6d36a86-ee5b-4997-94fa-853a8fd441b6\**" />
+    <EmbeddedResource Remove="bin\Debug\net5.0\4e280g3e3f-187d-488b-b825-c79514c3fbf0\**" />
+    <EmbeddedResource Remove="test\0c120g1213-df96-4fb8-a524-037dc0a73f65\**" />
+    <EmbeddedResource Remove="test\12c85oa7b3-c255-41c3-834a-bbbc2acd790d\**" />
+    <EmbeddedResource Remove="test\29a7aeefb8-3f2f-4ada-a0fb-6219717d5644\**" />
+    <EmbeddedResource Remove="test\38fcbd8827-47bb-4ef2-bb10-6c640788652e\**" />
+    <EmbeddedResource Remove="test\4a6ecc65-1e12-4371-944c-4c94287a0f52\**" />
+    <EmbeddedResource Remove="test\4e280g3e3f-187d-488b-b825-c79514c3fbf0\**" />
+    <EmbeddedResource Remove="test\5760ae5eb2-cfec-468c-bf3f-75c998f0b77d\**" />
+    <EmbeddedResource Remove="test\5b61c87c-7838-4ccc-93a8-5fbe64e2c91c\**" />
+    <EmbeddedResource Remove="test\6940eda6a0-7a22-4ef8-a6a4-bca775b4b8d3\**" />
+    <EmbeddedResource Remove="test\76faaa53d9-8ac9-451d-bcb5-b33a1e51dc33\**" />
+    <EmbeddedResource Remove="test\8c291ad378-1066-4af8-872a-8148f62a0403\**" />
+    <EmbeddedResource Remove="test\9a6e3681-66eb-4160-b2cc-2b4aa682625b\**" />
+    <EmbeddedResource Remove="test\9ee83n7af9-a125-46b2-a421-6a061be240f3\**" />
+    <EmbeddedResource Remove="test\c6d36a86-ee5b-4997-94fa-853a8fd441b6\**" />
+    <None Remove="bin\Debug\net5.0\4e280g3e3f-187d-488b-b825-c79514c3fbf0\**" />
+    <None Remove="test\0c120g1213-df96-4fb8-a524-037dc0a73f65\**" />
+    <None Remove="test\12c85oa7b3-c255-41c3-834a-bbbc2acd790d\**" />
+    <None Remove="test\29a7aeefb8-3f2f-4ada-a0fb-6219717d5644\**" />
+    <None Remove="test\38fcbd8827-47bb-4ef2-bb10-6c640788652e\**" />
+    <None Remove="test\4a6ecc65-1e12-4371-944c-4c94287a0f52\**" />
+    <None Remove="test\4e280g3e3f-187d-488b-b825-c79514c3fbf0\**" />
+    <None Remove="test\5760ae5eb2-cfec-468c-bf3f-75c998f0b77d\**" />
+    <None Remove="test\5b61c87c-7838-4ccc-93a8-5fbe64e2c91c\**" />
+    <None Remove="test\6940eda6a0-7a22-4ef8-a6a4-bca775b4b8d3\**" />
+    <None Remove="test\76faaa53d9-8ac9-451d-bcb5-b33a1e51dc33\**" />
+    <None Remove="test\8c291ad378-1066-4af8-872a-8148f62a0403\**" />
+    <None Remove="test\9a6e3681-66eb-4160-b2cc-2b4aa682625b\**" />
+    <None Remove="test\9ee83n7af9-a125-46b2-a421-6a061be240f3\**" />
+    <None Remove="test\c6d36a86-ee5b-4997-94fa-853a8fd441b6\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="test\" />
+  </ItemGroup>
+
+</Project>
